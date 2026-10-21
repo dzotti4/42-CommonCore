@@ -19,4 +19,4 @@ My projects at [42 Belgium](https://www.42belgium.be/) (started at Campus 19). E
 | [cub3d](cub3d) | C | 105 | group project |
 | [inception](inception) | Docker | 100 | |
 
-The Advanced Core projects live in their own repository: 42-AdvancedCore.
+The Advanced Core projects live in their own repository: [42-AdvancedCore](https://github.com/dzotti4/42-AdvancedCore).
